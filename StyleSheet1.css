@@ -1,0 +1,39 @@
+.title
+{
+    background-color: yellowgreen;
+    position :fixed;
+    top: 0;
+    left: 0;
+}
+.title1
+{
+    background-color:rgb(39, 77, 77);
+    
+}
+.title2
+{
+    background-color: aqua; 
+}
+.para
+{
+    background-color: aquamarine;
+     
+}
+.para1
+{
+    background-color:azure;
+}
+.service
+{
+    border: 2px solid chocolate;
+    width: 30%;
+    margin-right:3%;
+    margin: 5px;
+    float: left;
+    text-align: center;
+}
+body
+{
+    width:960px;
+    margin :0 auto;
+}
